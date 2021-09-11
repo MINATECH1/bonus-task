@@ -14,11 +14,7 @@ body{
     display:  flex;
     justify-content: space-between;
 }
-.flex-column{
-    flex-direction: column;
-}
-.flex-row{
-    flex-direction: row;
+ flex-direction: row;
 }
 .justify-center{
     justify-content: center;
